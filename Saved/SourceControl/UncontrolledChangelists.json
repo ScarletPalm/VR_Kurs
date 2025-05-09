@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal Projects/Kursovaya_VR_2025/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Unreal Projects/Kursovaya_VR_2025/Content/Game/Blueprints/Core/BP_VRGameInstance.uasset",
+				"E:/Unreal Projects/Kursovaya_VR_2025/Content/Game/Blueprints/Interfaces/BPI_GameInstance.uasset",
+				"E:/Unreal Projects/Kursovaya_VR_2025/Content/Game/Blueprints/Core/BP_VRController.uasset",
+				"E:/Unreal Projects/Kursovaya_VR_2025/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Unreal Projects/Kursovaya_VR_2025/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"E:/Unreal Projects/Kursovaya_VR_2025/Content/FirstPerson/Input/IMC_FPS.uasset",
+				"E:/Unreal Projects/Kursovaya_VR_2025/Content/FirstPerson/Input/IMC_Default.uasset",
+				"E:/Unreal Projects/Kursovaya_VR_2025/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"E:/Unreal Projects/Kursovaya_VR_2025/Content/VRTemplate/Blueprints/VRGameMode.uasset",
+				"E:/Unreal Projects/Kursovaya_VR_2025/Content/Game/Blueprints/BPFL/BPFL_GlobalFunction.uasset",
+				"E:/Unreal Projects/Kursovaya_VR_2025/Content/Game/Blueprints/BPFL/BPFL_GlobalFunctions.uasset",
+				"E:/Unreal Projects/Kursovaya_VR_2025/Content/VRTemplate/Maps/VRTemplateMap.umap"
+			]
+		}
+	]
+}
